@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+/*header {
+    font-size: 50px;
+    color: white;
+}*/
+
+body {
+    font-family: 'Orelega One', cursive;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.buttons button {
+    font-family: 'Orelega One', cursive;
+    font-size: 30px;
+    border: 3px solid white;
+    color: white;
+    background-color: black;
+    padding: 10px 24px;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
