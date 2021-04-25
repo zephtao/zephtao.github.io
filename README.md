@@ -1,10 +1,8 @@
 # zephtao.github.io
-Website for SWE Hacks (4/24/21)
+SWE Hacks 2021
 
-I'm sure all UW students can relate to having super full email inboxes,
-so I thought I would make a website that has a compilation of all the
-resources that UW has notified us about regarding race-related issues.
-The sweet and simple UI of my website takes inspiration from ______ and ______.
-The difference is that I wanted to challenge myself to build this website
-from scratch instead of using pre-made templates on website-building platforms.
-I used HTML and CSS to make the website and had a super fun learning experience!
+I built my website, Engage Page, from scratch using HTML and CSS. It is inspired by https://blacklivesmatters.carrd.co/ and
+https://anti-asianviolenceresources.carrd.co/, but I wanted to take on the challenge of coding it myself rather than using
+provided website templates on platforms like Carrd. The premise of Engage Page is simple: it contains a compilation of
+resources — many of which are specifically for UW students — about race-related issues in society today. This was the first
+website I built from scratch, and it was a rewarding learning experience!
